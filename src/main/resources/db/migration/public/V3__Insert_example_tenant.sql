@@ -1,0 +1,1 @@
+INSERT INTO tenant VALUES (1, 'tenant1'), (2, 'tenant2');
