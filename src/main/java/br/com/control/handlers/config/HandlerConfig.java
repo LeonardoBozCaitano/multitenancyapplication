@@ -1,6 +1,6 @@
-package br.com.multitenancy.handlers.config;
+package br.com.control.handlers.config;
 
-import br.com.multitenancy.services.config.ServiceConfig;
+import br.com.control.services.config.ServiceConfig;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;

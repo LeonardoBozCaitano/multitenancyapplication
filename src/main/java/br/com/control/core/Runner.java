@@ -1,4 +1,4 @@
-package br.com.multitenancy.core;
+package br.com.control.core;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

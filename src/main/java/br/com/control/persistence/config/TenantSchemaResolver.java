@@ -1,6 +1,6 @@
-package br.com.multitenancy.persistence.config;
+package br.com.control.persistence.config;
 
-import br.com.multitenancy.core.CurrentContext;
+import br.com.control.core.CurrentContext;
 import org.hibernate.context.spi.CurrentTenantIdentifierResolver;
 import org.springframework.stereotype.Component;
 

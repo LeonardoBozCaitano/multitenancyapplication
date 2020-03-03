@@ -1,4 +1,4 @@
-package br.com.multitenancy.core;
+package br.com.control.core;
 
 public class CurrentContext {
 

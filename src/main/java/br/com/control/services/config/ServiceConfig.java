@@ -1,6 +1,6 @@
-package br.com.multitenancy.services.config;
+package br.com.control.services.config;
 
-import br.com.multitenancy.persistence.PersistenceConfig;
+import br.com.control.persistence.PersistenceConfig;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 

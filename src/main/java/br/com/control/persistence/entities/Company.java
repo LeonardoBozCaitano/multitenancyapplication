@@ -1,4 +1,4 @@
-package br.com.multitenancy.persistence.entities;
+package br.com.control.persistence.entities;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -8,8 +8,7 @@ import javax.persistence.*;
 @Entity
 @Getter
 @Setter
-@Table(name="tenant", schema="public")
-public class Tenant {
+public class Company {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;

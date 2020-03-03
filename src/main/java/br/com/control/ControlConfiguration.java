@@ -1,6 +1,6 @@
-package br.com.multitenancy;
+package br.com.control;
 
-import br.com.multitenancy.handlers.config.HandlerConfig;
+import br.com.control.handlers.config.HandlerConfig;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;

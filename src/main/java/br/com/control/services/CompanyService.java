@@ -1,7 +1,7 @@
-package br.com.multitenancy.services;
+package br.com.control.services;
 
-import br.com.multitenancy.persistence.entities.Company;
-import br.com.multitenancy.persistence.repositories.CompanyRepository;
+import br.com.control.persistence.entities.Company;
+import br.com.control.persistence.repositories.CompanyRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

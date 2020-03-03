@@ -1,4 +1,4 @@
-package br.com.multitenancy.persistence;
+package br.com.control.persistence;
 
 import org.springframework.context.annotation.Configuration;
 

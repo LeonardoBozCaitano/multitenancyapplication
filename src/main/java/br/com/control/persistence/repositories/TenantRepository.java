@@ -1,6 +1,6 @@
-package br.com.multitenancy.persistence.repositories;
+package br.com.control.persistence.repositories;
 
-import br.com.multitenancy.persistence.entities.Tenant;
+import br.com.control.persistence.entities.Tenant;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

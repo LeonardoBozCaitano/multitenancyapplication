@@ -1,4 +1,4 @@
-package br.com.multitenancy.persistence.config;
+package br.com.control.persistence.config;
 
 import org.hibernate.MultiTenancyStrategy;
 import org.hibernate.cfg.Environment;

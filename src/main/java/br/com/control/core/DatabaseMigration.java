@@ -1,7 +1,7 @@
-package br.com.multitenancy.core;
+package br.com.control.core;
 
-import br.com.multitenancy.persistence.entities.Tenant;
-import br.com.multitenancy.persistence.repositories.TenantRepository;
+import br.com.control.persistence.entities.Tenant;
+import br.com.control.persistence.repositories.TenantRepository;
 import org.flywaydb.core.Flyway;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

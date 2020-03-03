@@ -1,6 +1,6 @@
-package br.com.multitenancy.handlers.config;
+package br.com.control.handlers.config;
 
-import br.com.multitenancy.core.CurrentContext;
+import br.com.control.core.CurrentContext;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

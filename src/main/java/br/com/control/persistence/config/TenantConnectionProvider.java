@@ -1,6 +1,6 @@
-package br.com.multitenancy.persistence.config;
+package br.com.control.persistence.config;
 
-import br.com.multitenancy.handlers.config.HandlerInterceptor;
+import br.com.control.handlers.config.HandlerInterceptor;
 import org.hibernate.engine.jdbc.connections.spi.MultiTenantConnectionProvider;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

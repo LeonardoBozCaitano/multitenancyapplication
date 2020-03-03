@@ -1,4 +1,4 @@
-package br.com.multitenancy;
+package br.com.control;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
